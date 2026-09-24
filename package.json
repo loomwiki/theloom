@@ -1,0 +1,10 @@
+{
+  "name": "the-loom-observatory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Loom — a living observatory and encyclopedia of internet culture.",
+  "scripts": {
+    "start": "node serve.js",
+    "preview": "node serve.js"
+  }
+}
